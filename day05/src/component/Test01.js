@@ -80,5 +80,5 @@ axios.get(url)
      .then(콜백) - 응답 성공
      .catch(콜백) - 응답 실패
  
-yarn add axios
+npm install axios / yarn add axios
 */
